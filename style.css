@@ -1,3 +1,9 @@
 body {
     background-color: lightcyan;
 }
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
